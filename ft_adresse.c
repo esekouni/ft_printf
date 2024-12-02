@@ -28,3 +28,5 @@ int	ft_adresse(long unsigned int n, char *b)
 	}
 	return (c);
 }
+
+
